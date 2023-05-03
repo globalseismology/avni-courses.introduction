@@ -1,0 +1,19 @@
+format: jb-book
+root: welcome
+parts:
+- caption: The Course
+  chapters:
+  - file: Acknowledgements
+    title: Acknowledgements
+  - file: How-To-Interact-With-This-Book
+    title: Interact With This Book   
+- caption: Data
+  chapters:
+  - file: Geophysics/Geophysics
+    title: (i) Introduction to Geophysical Observations
+  - file: Earthquake_Signals/Earthquake_Signals
+    title: (ii) Signals from Earthquakes
+- caption: Talks
+  chapters:
+  - file: Talks/Talk1_2023_Welcome-and-Introductions
+    title: (1) Welcome and Introductions
